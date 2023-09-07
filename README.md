@@ -23,5 +23,5 @@ For Backend:
      Test the api using Postman or Swagger Ui
 
 For Frontend:
-  1. Download the repository from the Github
+  1. Download the repository from the Github - https://github.com/Honnur6268/Bdiplus_Frontend.git
   2. After running the Spring Boot Application, Open the index.html file in browser
