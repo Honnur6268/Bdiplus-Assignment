@@ -14,11 +14,11 @@ For Backend
      Opens Swagger UI where you can see Rest Api endpoints and test the apis.
 
      Rest Endpoints:
-       a. GET -  To view all tasks   - http://localhost:8080/api/task/tasks
-       b. POST - To save Task to db - http://localhost:8080/api/task/save
-       c. PUT - To update task  - http://localhost:8080/api/task/update
-       d. GET - To get the task by ID - http://localhost:8080/api/task/{id}
-       e. DELETE - To delete the task by ID - http://localhost:8080/api/task/{id}
+       1. GET -  To view all tasks   - http://localhost:8080/api/task/tasks
+       2. POST - To save Task to db - http://localhost:8080/api/task/save
+       3. PUT - To update task  - http://localhost:8080/api/task/update
+       4. GET - To get the task by ID - http://localhost:8080/api/task/{id}
+       5.  DELETE - To delete the task by ID - http://localhost:8080/api/task/{id}
 
      Test the api using Postman or Swagger Ui
 
