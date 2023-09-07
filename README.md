@@ -2,8 +2,8 @@
 
 Task Application
 
-Steps to Run Project:
-For Backend
+Steps to Run Project: 
+For Backend:
   1. Download the repository from the Github - https://github.com/Honnur6268/Bdiplus-Assignment.git
   2. Open the Spring Boot project in your Eclipse IDE
   3. Create Database in MySQL Workbench or Command Line Client
@@ -22,6 +22,6 @@ For Backend
 
      Test the api using Postman or Swagger Ui
 
-For Frontend
-  Download the repository from the Github
-  after running the Spring Boot Application, Open the index.html file in browser
+For Frontend:
+  1. Download the repository from the Github
+  2. After running the Spring Boot Application, Open the index.html file in browser
